@@ -1,0 +1,149 @@
+.Heading1 {
+    position: relative;
+    /* margin-top: 10px; */
+}
+
+body {
+    background-color: #61f24e;
+}
+
+.container-fluid {
+    background-color: #37e68e;
+    padding: 1%;
+    width: 99%;
+    position: relative;
+}
+
+.navbarHeading {
+    color: #ae41e0;
+    font-family: "Sofia", sans-serif;
+    background-color: #c5f71e;
+    text-decoration: unset;
+    border-radius: 8px;
+    font-size: 50px;
+}
+
+.offcanvas-body {
+    background-color: rgb(137, 241, 137);
+}
+
+.offcanvas-header {
+    background-color: rgb(89, 87, 241);
+}
+
+#navbarDropdown {
+    position: relative;
+    ;
+}
+
+.nav-item:hover {
+    background-color: rgb(39, 219, 33);
+}
+
+.navbar {
+    position: relative;
+    margin: 10px;
+    border-radius: 8px;
+    /* margin-bottom: 20px; */
+}
+
+.Heading1 {
+    position: relative;
+    /* margin-top: 150px; */
+}
+
+#welcomePhoto {
+    border-radius: 20px;
+}
+
+#welcomePhoto:hover {
+    box-shadow: 0 0 2px 1px rgba(7, 106, 187, 0.5);
+}
+
+.mainInfo {
+    width: 100%;
+    padding: 1%;
+    background-color: #1ef7e9;
+}
+
+.mainInfo:hover {
+    background-color: lightyellow;
+}
+
+#welcomePhoto {
+    margin: 0.2%;
+    float: left;
+    height: 500px;
+    width: 650px
+}
+
+.textInfo {
+    float: left;
+    padding-left: 20px;
+}
+
+.textInfo h1 {
+    padding-top: 10%;
+    width: 100%;
+    /* float: left; */
+    text-align: center;
+    word-wrap: break-word;
+    /* font-size: 0.6em; */
+    /* position: relative; */
+}
+
+.textInfo h2 {
+    padding-top: 20px;
+    width: 100%;
+    /* float: left; */
+    word-wrap: break-word;
+    /* font-size: 0.6em; */
+    /* position: relative; */
+}
+
+.textInfo p {
+    padding-top: 2%;
+    width: 100%;
+    /* float: left; */
+    font-size: 20px;
+    /* position: relative; */
+    word-wrap: break-word;
+}
+
+
+/* .textInfo p span {
+    color: rgb(33, 219, 188);
+} */
+
+#getStartedButton {
+    float: bottom;
+    float: right;
+}
+
+
+/* * {
+    padding:0;
+    margin:0;
+}
+.iconDetails {
+    margin:0 2%;
+    float:left;
+    height:40px;
+    width:40px;
+}
+.container2 {
+    width:100%;
+    height:auto;
+    padding:1%;
+}
+.text {
+    float:left;
+}
+.text h4, .text p {
+    width:100%;
+    float:left;
+    font-size:0.6em;
+}
+.text p span {
+    color:#666;
+} */
