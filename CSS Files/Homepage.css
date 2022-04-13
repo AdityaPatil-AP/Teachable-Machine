@@ -3,7 +3,7 @@
     width: 99%;
 }
 body{
-    background-color: rgb(25,26,26);
+    background-color: 2C3531;
 }
 .offcanvas-body{
     background-color: rgb(175, 182, 145);
@@ -50,8 +50,12 @@ body{
     padding: 15px;
     margin-left: 2.5%;
     margin-right: 2.5%;
+    transition: border 100ms linear;
 }
-.ProjectButton:hover{border:3px solid rgb(94, 141, 94)}
+.ProjectButton:hover{
+    border:3px solid rgb(94, 141, 94);
+    cursor: hand;
+}
 
 .buttons::after {
     content: "";
@@ -84,4 +88,9 @@ body{
     position: relative;
     left: 25%;
     border-radius: 5%;
+}
+#foot{
+    position: relative;
+    top: 40%;
+    background-color: #116466;
 }
